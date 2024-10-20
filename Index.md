@@ -1,8 +1,8 @@
 # actividad1_1
-## Nomre: Rimsha Iqbal  
+### Nomre: Rimsha Iqbal  
 ### curso 24/25
 
-## Tabla de Contenidos
+### Tabla de Contenidos
 
 1. [Ejercicio 1](unidad1/ejercicio1.md)
 2. [Ejercicio 2](unidad1/ejercicio2.md)
