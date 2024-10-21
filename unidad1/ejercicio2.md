@@ -45,7 +45,7 @@
 
 <!--Una imagen  -->
 ### Una imagen     
-![una imagen](../img/img1.png)
+![una imagen](img/img1.png)
 <!-- Una tabla-->
 ###  Table de alumnos 
 
