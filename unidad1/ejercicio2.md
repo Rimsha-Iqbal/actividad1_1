@@ -41,7 +41,7 @@
 
 <!--Un enlace a otro fichero Markdown que tengas en el repositorio.  -->  
 ### Fichero Mardown de mi repositorio
-[Otero fichero de markdown en repositorio.](https://github.com/Rimsha-Iqbal/prueba-rimsha/blob/main/README.md) de prueba_rimsha
+[Otero fichero de markdown en repositorio.](https://github.com/Rimsha-Iqbal/prueba-rimsha/blob/main/ejercicio1.md) de prueba_rimsha
 
 <!--Una imagen  -->
 ### Una imagen     
